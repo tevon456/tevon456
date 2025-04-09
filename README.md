@@ -1,40 +1,29 @@
 
 <p align="center">
   <samp>
-    <a href="https://tevon.vercel.app">website</a> .
-    <a href="https://linkedin.com/in/tevon">linkedin</a> .
+    <a href="https://tevon.vercel.app">website</a> ·
+    <a href="https://linkedin.com/in/tevon">linkedin</a> ·
     <a href="mailto:tevondavisjc+github@gmail.com">email</a>
   </samp>
 </p>
 
-> Delivering impactful solutions and prioritizing superior end-user experiences across industries.
+> Thoughtfully engineered software with a focus on reliability, usability, and long-term impact.
 
-## Software Developer with a Passion for Innovation and Quality
+## Tevon Davis — Full-Stack Developer with a Focus on Quality and Practical Innovation
 
+I'm Tevon, a software developer with a proven ability to deliver production-ready systems across both frontend and backend stacks. My experience spans several industries—including government, healthcare, fintech, and community platforms—where I’ve consistently delivered scalable, well-architected solutions tailored to real-world needs.
 
-Hello there! I'm Tevon,
+With strong foundations in JavaScript and TypeScript, I specialize in building user-focused interfaces with React and scalable APIs using Node.js and modern tooling. I prioritize clarity, maintainability, and thoughtful abstractions—balancing speed with discipline.
 
-A Software Developer driven by a deep passion for innovation and a relentless pursuit of quality. With a proven track record in delivering impactful solutions, I've had the privilege of working in various industries, tackling diverse problem spaces. As an adaptable and quick learner, I thrive in dynamic environments and enjoy the challenge of mastering new technologies.
+#### Technical Competencies
 
-#### 💻 Technology Palette
+- **Languages:** JavaScript (ES6+), TypeScript, PHP, SQL, C#, Bash  
+- **Frontend:** React, Next.js, Emotion, Vite, Tailwind  
+- **Backend:** Node.js, Express, Prisma, GraphQL  
+- **Data:** PostgreSQL, MySQL, Redis, Firebase  
+- **Testing:** Jest, Cypress, Mocha, Playwright  
+- **DevOps & Tools:** Git, GitHub Actions, Figma, Adobe XD  
 
-Proficiency in an array of technologies empowers me to craft exceptional software experiences:
+#### Engineering Philosophy
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS, GraphQL, SQL, PHP, C#, Bash, XML, 
-
-- **Frameworks:**  React, Next.js, Express.js, Electron, Node.js, MJML
-
-- **Databases:**  PostgreSQL, MySQL, Firebase, MongoDB
-
-- **Tools:** Git, Github Actions, Jest, Cypress, Mocha, AdobeXD, Figma
-
-#### 🌟 Innovation with Purpose
-
-My commitment lies in producing high-quality software that not only meets business goals but also exceeds end-user expectations. I firmly believe that innovative solutions should make a meaningful impact in people's lives and drive positive change in the world.
-
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tevon456&show_icons=true&locale=en&layout=compact" alt="tevon456" /></p>
-
-
+I value systems that are predictable, well-tested, and easy to evolve. Whether building greenfield features or improving legacy codebases, I bring a deliberate, structured approach—prioritizing clear communication and long-term sustainability.
