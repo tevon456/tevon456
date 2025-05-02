@@ -1,7 +1,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://tevon.vercel.app">website</a> ·
+    <a href="https://tevon.dev">website</a> ·
     <a href="https://linkedin.com/in/tevon">linkedin</a> ·
     <a href="mailto:tevondavisjc+github@gmail.com">email</a>
   </samp>
