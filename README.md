@@ -7,7 +7,7 @@
   </samp>
 </p>
 
-> _Curious by nature, jack of all, making the things go beep boop_.
+> _Curious by nature, jack of all trades, making the things go beep boop_.
 
 ## Tevon Davis — Full-Stack Software Developer
 
