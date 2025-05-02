@@ -7,19 +7,27 @@
   </samp>
 </p>
 
-> Thoughtfully engineered software with a focus on reliability, usability, and long-term impact.
+> _Curious by nature, jack of all, making the things go beep boop_.
 
-## Tevon Davis — Full-Stack Developer with a Focus on Quality and Functionality
+## Tevon Davis — Full-Stack Software Developer
 
-I'm Tevon, a software developer with a proven ability to deliver production-ready systems across both frontend and backend stacks. My experience spans several industries including government, healthcare, fintech, and community platforms—where I’ve consistently delivered scalable, well-architected solutions tailored to real-world needs.
+I'm Tevon, a software developer originally from Jamaica who enjoys building things that actually work in the real world. I’ve shipped full-stack products across industries like government, healthcare, fintech, and community platforms, often juggling both frontend and backend to get things across the finish line
 
-With strong foundations in JavaScript and TypeScript, I specialize in building user-focused interfaces with React and scalable APIs using Node.js and modern tooling. I prioritize clarity, maintainability, and thoughtful abstractions—balancing speed with discipline.
+Most of my work lives in the JavaScript, TypeScript, and PHP world. I build with React on the frontend and use Node.js or PHP on the backend, depending on the job. I care about writing clean, understandable code and keeping things maintainable without overengineering. Every now and then I dabble in C# when the project calls for it.
 
-#### Technical Competencies (Non exhaustive)
+P.S. My more interesting projects tend to be private, but feel free to reach out if you're curious.
 
-- **Languages:** JavaScript (ES6+), TypeScript, PHP, SQL, C#, Bash  
-- **Frontend:** React, Next.js, Emotion, Vite, Tailwind  
+#### Technical Competencies (Non exhaustive ¯\_(ツ)_/¯)
+
+- **Languages:** JavaScript (ES6+), TypeScript, PHP, SQL, C#  
+- **Frontend:** React, Next.js, Vite, Tailwind  
 - **Backend:** Node.js, Express, Laravel, Prisma, GraphQL  
 - **Data:** PostgreSQL, MySQL, Redis, Firebase  
-- **Testing:** Jest, Cypress, Mocha, Playwright  
-- **DevOps & Tools:** Git, GitHub Actions, Figma, Adobe XD  
+- **Testing:** Jest, Cypress, Mocha, Playwright, Artillery  
+- **DevOps & Tools:** Git, GitHub Actions, Docker, Figma. All the usual suspects etc etc.
+
+#### Currently
+
+Exploring some experimental game mechanics, tuning up a few private projects, and always looking for ways to make good software feel simple.
+
+
