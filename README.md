@@ -17,7 +17,7 @@ Most of my work lives in the JavaScript, TypeScript, and PHP world. I build with
 
 P.S. My more interesting projects tend to be private, but feel free to reach out if you're curious.
 
-#### Technical Competencies (Non exhaustive ¯\_(ツ)_/¯)
+#### Technical Competencies (Non exhaustive)
 
 - **Languages:** JavaScript (ES6+), TypeScript, PHP, SQL, C#  
 - **Frontend:** React, Next.js, Vite, Tailwind  
