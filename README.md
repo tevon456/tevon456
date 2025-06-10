@@ -11,7 +11,7 @@
 
 ## Tevon Davis — Full-Stack Software Developer
 
-I'm Tevon, a software developer originally from Jamaica who enjoys building things that actually work in the real world. I’ve shipped full-stack products across industries like government, healthcare, fintech, and community platforms, often juggling both frontend and backend to get things across the finish line
+I'm Tevon, a software developer originally from Jamaica who enjoys building things that actually work in the real world. I’ve shipped full-stack products across industries like government, healthcare, fintech, and community platforms, often juggling both frontend and backend to get things across the finish line.
 
 Most of my work lives in the JavaScript, TypeScript, and PHP world. I build with React on the frontend and use Node.js or PHP on the backend, depending on the job. I care about writing clean, understandable code and keeping things maintainable without overengineering. Every now and then I dabble in C# when the project calls for it.
 
