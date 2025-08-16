@@ -1,7 +1,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://tevon.dev">website</a> ·
+    <a href="https://tevon.dev">website</a>
   </samp>
 </p>
 
